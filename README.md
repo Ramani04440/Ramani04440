@@ -1,4 +1,4 @@
-# Hi there, I'm Ramani S 👋
+# Hi there, I'm RAMANI S 👋
 
 🎓 **Pre-Final Year Computer Science Engineering Student**  
 💻 **Aspiring Software Engineer**  
