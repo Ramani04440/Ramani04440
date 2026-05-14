@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi there, I'm Ramani S 👋
 
-<!--
-**Ramani04440/Ramani04440** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Pre-Final Year Computer Science Engineering Student**  
+💻 **Aspiring Software Engineer**  
+☕ **Java Developer** | 🗄️ **SQL Enthusiast** | 🤖 **Machine Learning Enthusiast**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🌱 Passionate about software development and problem solving
+- 🧠 Continuously improving my skills in Data Structures and Algorithms
+- 🤖 Interested in Artificial Intelligence and Machine Learning
+- 💡 Enjoy building impactful and real-world technology solutions
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+</p>
+
+---
+
+## 🎯 Current Focus
+
+- ☕ Strengthening Java programming skills
+- 🗄️ Deepening database and SQL knowledge
+- 🤖 Exploring Machine Learning concepts
+- 🧠 Solving algorithmic and problem-solving challenges
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/ramani-s-149579282
+- 📧 Email: ramani04122005@gmail.com
+
+---
+
+<p align="center">
+  <b>“Driven by curiosity, powered by consistency.”</b>
+</p>
