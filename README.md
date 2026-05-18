@@ -4,7 +4,6 @@
 💻 **Aspiring Software Engineer**  
 ☕ **Java Developer** | 🗄️ **SQL Enthusiast** | 🤖 **Machine Learning Enthusiast**
 
----
 
 ## 🚀 About Me
 
@@ -13,7 +12,6 @@
 - 🤖 Interested in Artificial Intelligence and Machine Learning
 - 💡 Enjoy building impactful and real-world technology solutions
 
----
 
 ## 🛠️ Tech Stack
 
@@ -23,7 +21,6 @@
   <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 </p>
 
----
 
 ## 🎯 Current Focus
 
@@ -32,14 +29,13 @@
 - 🤖 Exploring Machine Learning concepts
 - 🧠 Solving algorithmic and problem-solving challenges
 
----
 
 ## 📫 Connect With Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/ramani-s-149579282
 - 📧 Email: ramani04122005@gmail.com
 
----
+
 
 <p align="center">
   <b>“Driven by curiosity, powered by consistency.”</b>
