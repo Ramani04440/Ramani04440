@@ -5,7 +5,7 @@
 ☕ **Java Developer** | 🗄️ **SQL Enthusiast** | 🤖 **Machine Learning Enthusiast**
 
 
-## 🚀 About Me
+## About Me
 
 - 🌱 Passionate about software development and problem solving
 - 🧠 Continuously improving my skills in Data Structures and Algorithms
@@ -13,7 +13,7 @@
 - 💡 Enjoy building impactful and real-world technology solutions
 
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
