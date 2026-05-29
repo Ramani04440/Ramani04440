@@ -8,7 +8,6 @@
 ## About Me
 
 - 🌱 Passionate about software development and problem solving
-- 🧠 Continuously improving my skills in Data Structures and Algorithms
 - 🤖 Interested in Artificial Intelligence and Machine Learning
 - 💡 Enjoy building impactful and real-world technology solutions
 
