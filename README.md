@@ -1,4 +1,10 @@
 # Hi there, I'm RAMANI S 👋
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/ramani-s-149579282"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:ramani04122005@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
 🎓 **Pre-Final Year Computer Science Engineering Student**  
 💻 **Aspiring Software Engineer**  
 ☕ **Java Developer** | 🗄️ **SQL Enthusiast** | 🤖 **Machine Learning Enthusiast**
@@ -21,10 +27,6 @@
 - 🤖 Exploring Machine Learning concepts
 - 🧠 Solving algorithmic and problem-solving challenges
   
-## 📫 Connect With Me
-
-- 💼 LinkedIn: https://www.linkedin.com/in/ramani-s-149579282
-- 📧 Email: ramani04122005@gmail.com
   
 <p align="center">
   <b>“Driven by curiosity, powered by consistency.”</b>
