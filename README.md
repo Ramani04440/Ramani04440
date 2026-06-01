@@ -21,6 +21,15 @@
   <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 </p> 
 
+## 🚀 Featured Projects
+
+| Project | Stack | Description |
+|---------|-------|-------------|
+| 🌾 **RuralPulse AI** | Flask, React, NLP, ML | AI healthcare system for rural populations with voice/SMS triage |
+| 🩺 **Skin Cancer Detection** | TensorFlow, OpenCV | ML-based skin lesion classification for early diagnosis |
+| 🎤 **AI Interview Simulator** | Gemini, LangChain, Next.js | Role-based mock interview platform with personalized feedback |
+| 🔊 **Sonic Care Assist** | TinyML, ESP32, IoT | Wearable that detects hunger/distress via acoustic sensors |
+
 ## 🎯 Current Focus
 - ☕ Strengthening Java programming skills
 - 🗄️ Deepening database and SQL knowledge
