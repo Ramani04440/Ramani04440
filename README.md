@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=header&text=Ramani%20S&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20for%20Healthcare%20%7C%20Skin%20Cancer%20Detection%20%7C%20Full%20Stack%20Developer%20%7C%20IEEE%20Leader&descAlignY=62&descSize=16"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1aff,50:4d79ff,100:0099ff&height=180&section=header&text=Ramani%20S&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20for%20Healthcare%20%7C%20Skin%20Cancer%20Detection%20%7C%20Full%20Stack%20Developer%20%7C%20IEEE%20Leader&descAlignY=62&descSize=16"/>
 
 <div align="center">
 
@@ -11,8 +11,8 @@
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ```python
-class Ramani_S:
-    name        = "RAMANI S"
+class RamaniS:
+    name        = "Ramani S"
     location    = "Chennai, Tamil Nadu, India"
     degree      = "B.E. Computer Science @ Sri Sairam Engineering College"
     
@@ -121,6 +121,15 @@ print(me.motto())
 
 ---
 
+## 🏆 Trophy Wall
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ramani04440&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
 
 ## 💼 Work Experience
 
@@ -251,4 +260,4 @@ print(me.motto())
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1aff,50:4d79ff,100:0099ff&height=120&section=footer&animation=twinkling"/>
