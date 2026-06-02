@@ -252,7 +252,7 @@ print(me.motto())
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramani-s-149579282)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ramani04122005@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ramani04122005)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Ramani04440)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ramani04122005&color=70a5fd&style=flat-square&label=Profile+Views)
 
