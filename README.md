@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ramani%20S&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20for%20Healthcare%20%7C%20Skin%20Cancer%20Detection%20%7C%20Full%20Stack%20Developer%20%7C%20IEEE%20Leader&descAlignY=62&descSize=16"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=header&text=Ramani%20S&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20for%20Healthcare%20%7C%20Skin%20Cancer%20Detection%20%7C%20Full%20Stack%20Developer%20%7C%20IEEE%20Leader&descAlignY=62&descSize=16"/>
 
 <div align="center">
 
@@ -165,7 +165,7 @@ print(me.motto())
 
 ## 🚀 Featured Projects
 
-### 🔬 Flagship Project — Skin Cancer Detection System
+### 🔬 Flagship Project — [Skin Cancer Detection System](https://github.com/Ramani04440/Skincancer-Detection)
 
 <div align="center">
 
@@ -251,7 +251,7 @@ print(me.motto())
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramani-s-149579282)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:Ramani04440@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ramani04122005@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Ramani04440)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Ramani04440&color=70a5fd&style=flat-square&label=Profile+Views)
@@ -260,4 +260,4 @@ print(me.motto())
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=twinkling"/>
