@@ -11,8 +11,8 @@
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ```python
-class RamaniS:
-    name        = "Ramani S"
+class Ramani_S:
+    name        = "RAMANI S"
     location    = "Chennai, Tamil Nadu, India"
     degree      = "B.E. Computer Science @ Sri Sairam Engineering College"
     
