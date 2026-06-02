@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1aff,50:4d79ff,100:0099ff&height=180&section=header&text=Ramani%20S&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20for%20Healthcare%20%7C%20Skin%20Cancer%20Detection%20%7C%20Full%20Stack%20Developer%20%7C%20IEEE%20Leader&descAlignY=62&descSize=16"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1aff,50:4d79ff,100:0099ff&height=180&section=header&text=Ramani%20S&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20for%20Healthcare%20%7C%20Skin%20Cancer%20Detection%20%7C%20Full%20Stack%20Developer%20%7C%20IEEE%20Reliability%20Society%20Chairperson&descAlignY=62&descSize=16"/>
 
 <div align="center">
 
