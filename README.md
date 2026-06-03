@@ -121,6 +121,16 @@ print(me.motto())
 
 ---
 
+## 🏆 Trophy Wall
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ramani04440&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
 ## 💼 Work Experience
 
 <details>
@@ -233,9 +243,31 @@ print(me.motto())
 🌐 Full Stack Architecture →  Microservices, Docker, API Design Patterns
 🧬 Healthcare AI          →  Medical Imaging, NLP for Clinical Text, Triage Systems
 ```
-📜 Certifications
+
+---
+
+## 📜 Certifications
+
 <div align="center">
-🏅CertificationIssuer🐍Python for Data ScienceNPTEL🧮Python DSAUdemy📊Python in ExcelLinkedIn Learning🧠Project Management Skills for LeadersLinkedIn Learning💻Computer ArchitectureNPTEL🌐Networking BasicsCisco☁️Oracle Cloud Infrastructure 2025 Certified AssociateOracle📐Design and Analysis of AlgorithmsNPTEL☁️AWS Cloud Practitioner EssentialsAWS📡Introduction to IoTNPTEL🧪Software TestingNPTEL🖥️Operating System FundamentalsNPTEL⚙️Compiler DesignNPTEL🌩️Cloud ComputingNPTEL💡Intellectual PropertyNPTEL
+
+| 🏅 | Certification | Issuer |
+|:---:|:-------------|:-------|
+| 🐍 | **Python for Data Science** | NPTEL |
+| 🧮 | **Python DSA** | Udemy |
+| 📊 | **Python in Excel** | LinkedIn Learning |
+| 🧠 | **Project Management Skills for Leaders** | LinkedIn Learning |
+| 💻 | **Computer Architecture** | NPTEL |
+| 🌐 | **Networking Basics** | Cisco |
+| ☁️ | **Oracle Cloud Infrastructure 2025 Certified Associate** | Oracle |
+| 📐 | **Design and Analysis of Algorithms** | NPTEL |
+| ☁️ | **AWS Cloud Practitioner Essentials** | AWS |
+| 📡 | **Introduction to IoT** | NPTEL |
+| 🧪 | **Software Testing** | NPTEL |
+| 🖥️ | **Operating System Fundamentals** | NPTEL |
+| ⚙️ | **Compiler Design** | NPTEL |
+| 🌩️ | **Cloud Computing** | NPTEL |
+| 💡 | **Intellectual Property** | NPTEL |
+
 </div>
 
 ---
@@ -244,7 +276,7 @@ print(me.motto())
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramani-s-149579282/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramani-s-149579282)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ramani04122005@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Ramani04440)
 
