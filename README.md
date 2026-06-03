@@ -258,7 +258,7 @@ print(me.motto())
 | 🧠 | **Project Management Skills for Leaders** | LinkedIn Learning |
 | 💻 | **Computer Architecture** | NPTEL |
 | 🌐 | **Networking Basics** | Cisco |
-| ☁️ | **Oracle Cloud Infrastructure 2025 Certified Associate** | Oracle |
+| <img src="https://github.com/Ramani04440/Ramani04440/raw/main/OCI25AICFA.jpeg" width="40"/> | **Oracle Cloud Infrastructure AI Foundations Associate — 2025** | Oracle |
 | 📐 | **Design and Analysis of Algorithms** | NPTEL |
 | ☁️ | **AWS Cloud Practitioner Essentials** | AWS |
 | 📡 | **Introduction to IoT** | NPTEL |
