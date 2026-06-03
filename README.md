@@ -233,6 +233,10 @@ print(me.motto())
 🌐 Full Stack Architecture →  Microservices, Docker, API Design Patterns
 🧬 Healthcare AI          →  Medical Imaging, NLP for Clinical Text, Triage Systems
 ```
+📜 Certifications
+<div align="center">
+🏅CertificationIssuer🐍Python for Data ScienceNPTEL🧮Python DSAUdemy📊Python in ExcelLinkedIn Learning🧠Project Management Skills for LeadersLinkedIn Learning💻Computer ArchitectureNPTEL🌐Networking BasicsCisco☁️Oracle Cloud Infrastructure 2025 Certified AssociateOracle📐Design and Analysis of AlgorithmsNPTEL☁️AWS Cloud Practitioner EssentialsAWS📡Introduction to IoTNPTEL🧪Software TestingNPTEL🖥️Operating System FundamentalsNPTEL⚙️Compiler DesignNPTEL🌩️Cloud ComputingNPTEL💡Intellectual PropertyNPTEL
+</div>
 
 ---
 
