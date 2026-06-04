@@ -155,7 +155,7 @@ print(me.motto())
 
 ## 🚀 Featured Projects
 
-### 🔬 Flagship Project — [Skin Cancer Detection System](https://github.com/Ramani04440/Skincancer-Detection)
+### 🔬 [Revolutionizing Skin Cancer Detection with ML](https://github.com/Ramani04440/Skincancer-Detection)
 
 <div align="center">
 
