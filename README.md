@@ -17,7 +17,7 @@ class Ramani_S:
     degree      = "B.E. Computer Science @ Sri Sairam Engineering College"
     
     stack       = [
-        "Python", "JavaScript", "Java", "C++", "SQL",
+         "Java","SQL",
         "React", "Node.js", "Flask", "TensorFlow",
         "Docker", "PostgreSQL", "MongoDB"
     ]
