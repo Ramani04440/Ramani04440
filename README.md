@@ -200,7 +200,7 @@ print(me.motto())
 | 🥇 | **IEEE Best Student Volunteer Award** | Recognized for outstanding leadership & contributions to IEEE activities — 2025 |
 | ⭐ | **NPTEL STAR – Motivated Learner** | Awarded for consistent performance and dedication to online learning |
 | 🌟 | **NPTEL STAR – Discipline Star** | Recognized for exemplary discipline and commitment across NPTEL courses |
-| 🎓 | **E-Cell IIT Bombay – Campus Ambassador** | Promoted entrepreneurship initiatives and student engagement — 2024 |
+| 🎓 | **E-Cell IIT Bombay – Campus Ambassador** | Promoted entrepreneurship initiatives and student engagement |
 | 📡 | **IEEE CS SYP HIZE 2.0 – Outreach Team Member** | Assisted in outreach & event promotion; supported participant engagement — Jun–Dec 2024 |
 | 🌐 | **Youth United Council of India – Campus Coordinator & Dept Head** | Engaged **600+ members**, recruited **100+ volunteers**, led design & content teams — Oct 2024–Feb 2025 |
 | 🎨 | **IEEE Reliability Society – Design Lead** | Created posters, invitations, certificates; led design team for high-quality event materials — Oct–Dec 2025 |
